@@ -1,0 +1,33 @@
+body{
+    background-color:rgb(225, 238, 249);
+    font-family: "poppins";
+}
+
+.qr-code img{
+    border-radius: 1rem;
+    margin-left: 3.5%;
+    margin-top: 3.5%;
+}
+
+.container{
+    background-color: white;
+    width: 376px;
+    height: 620px;
+    border-radius: 1rem;
+    margin: 100px auto;
+}
+
+h1{
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 24px;
+    color: rgb(58, 56, 56);
+}
+
+p{
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: grey;
+}
